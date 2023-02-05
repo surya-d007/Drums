@@ -1,0 +1,157 @@
+
+.body{
+    background-color: #99b2b2;
+    font-family: 'Comfortaa', cursive;
+}
+.text{
+    margin-top: 16%;
+        font-size: 100px;
+ 
+}
+.drums{
+    margin: auto;
+    margin-top: 1em;;
+    width: 52%;
+    padding: 10px;   
+}
+
+
+.drum_1{ display: inline-block;
+    margin-left: 1cm;
+    outline: 0;
+    border: 1mm solid rgb(15, 45, 38);
+    font-size: 20px;
+    margin-bottom: 8px;
+    font-weight: 500;
+    color: #fff;
+    cursor: pointer;
+    background-image: linear-gradient(to right,#b785a2,#b885a3)!important;
+    border-radius: 10px;
+    padding: 16px 18px 15px;
+    white-space: nowrap;
+    height: 2cm;
+    width: 2cm;
+    
+    :hover {
+        background-color: #b785a2;
+        background-image: none!important;
+    }
+
+   
+}
+
+.drum_2{   display: inline-block;
+    margin-left: 1cm;
+    outline: 0;
+    margin-bottom: 8px;
+    border: 1mm solid rgb(15, 45, 38);
+    font-size: 20px;
+    font-weight: 500;
+    color: #fff;
+    cursor: pointer;
+    background-image: linear-gradient(to right,#b785a2,#b885a3)!important;
+    border-radius: 10px;
+    padding: 16px 18px 15px;
+    white-space: nowrap;
+    height: 2cm;
+    width: 2cm;
+    
+    :hover {
+        background-color: #b785a2;
+        background-image: none!important;
+    }
+
+}
+.drum_3{
+    
+    margin-left: 1cm;
+    display: inline-block;
+    outline: 0;
+    border: 1mm solid rgb(15, 45, 38);
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 8px;
+    color: #fff;
+    cursor: pointer;
+    background-image: linear-gradient(to right,#b785a2,#b885a3)!important;
+    border-radius: 10px;
+    padding: 16px 18px 15px;
+    white-space: nowrap;
+    height: 2cm;
+    width: 2cm;
+    
+    :hover {
+        background-color: #b785a2;
+        background-image: none!important;
+    }
+
+}
+.drum_4{
+    display: inline-block;
+    outline: 0;
+    margin-left: 1cm;
+    border: 1mm solid rgb(15, 45, 38);
+    font-size: 20px;
+    font-weight: 500;
+    color: #fff;
+    cursor: pointer;
+    background-image: linear-gradient(to right,#b785a2,#b885a3)!important;
+    border-radius: 10px;
+    margin-bottom: 8px;
+    padding: 16px 18px 15px;
+    white-space: nowrap;
+    height: 2cm;
+    width: 2cm;
+    
+    :hover {
+        background-color: #b785a2;
+        background-image: none!important;
+    }
+
+}
+.drum_5{
+    display: inline-block;
+    outline: 0;
+    border: 1mm solid rgb(15, 45, 38);
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 1cm;
+    color: #fff;
+    cursor: pointer;
+    margin-bottom: 8px;
+    background-image: linear-gradient(to right,#b785a2,#b885a3)!important;
+    border-radius: 10px;
+    padding: 16px 18px 15px;
+    white-space: nowrap;
+    height: 2cm;
+    width: 2cm;
+    
+    :hover {
+        background-color: #b785a2;
+        background-image: none!important;
+    }
+
+}
+.drum_6{
+    display: inline-block;
+    outline: 0;
+    border: 1mm solid rgb(15, 45, 38);
+    font-size: 20px;
+    font-weight: 500;
+    color: #fff;
+    cursor: pointer;
+    margin-left: 1cm;
+    margin-bottom: 8px;
+    background-image: linear-gradient(to right,#b785a2,#b885a3)!important;
+    border-radius: 10px;
+    padding: 16px 18px 15px;
+    white-space: nowrap;
+    height: 2cm;
+    width: 2cm;
+    
+    :hover {
+        background-color: #b785a2;
+        background-image: none!important;
+    }
+
+}
